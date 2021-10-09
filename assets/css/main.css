@@ -25,6 +25,14 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.heHim-role{color:#87d6d4;
+	background-color:#383747;
+	transition-duration:300ms;
+	padding:1px;
+	padding-right:4px!important;
+	padding-left:4px!important;
+	border-radius:4px}
+
 body {
 	line-height: 1;
 }
